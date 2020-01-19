@@ -50,3 +50,5 @@ yy = net(nd.array(mnist_test_data))
 b = np.argmax(yy[0].asnumpy())
 print(b)
 print(mnist_test_label[0])
+
+
