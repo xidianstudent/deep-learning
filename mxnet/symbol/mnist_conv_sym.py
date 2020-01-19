@@ -4,6 +4,8 @@ from mxnet import autograd, nd
 import numpy as np
 import time
 
+print(mx.__version__)
+
 mnist_data = mx.test_utils.get_mnist()
 
 mnist_train_data = mnist_data['train_data']
