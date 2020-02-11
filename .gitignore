@@ -1,6 +1,6 @@
-/jupyter/pytorch/*.pth
-/jupyter/pytorch/data/
-/mxnet/*.gz
-/tools/data/
-/tools/*.dat
+jupyter/pytorch/*.pth
+jupyter/pytorch/data/
+mxnet/*.gz
+tools/data/
+tools/*.dat
 .DS_Store
