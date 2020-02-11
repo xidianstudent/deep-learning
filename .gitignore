@@ -4,3 +4,4 @@ mxnet/*.gz
 tools/data/
 tools/*.dat
 .DS_Store
+*.jpg
