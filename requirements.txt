@@ -1,0 +1,9 @@
+scikit-image == 0.16.2
+numpy == 1.17.4
+tensorflow == 1.14.0
+torch == 1.4.0
+torchvision == 0.5.0
+mxnet == 1.5.1.post0
+opencv_python == 3.4.8.29
+Pillow == 6.2.1
+dlib == 19.19.0
